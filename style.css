@@ -1,11 +1,75 @@
 body {
 
-    background-color: red;
+    background-color: #556B2F;
 }
 
-h1 {
-    color: aqua;
+header {
+    color: rgba(248, 248, 248, 0.943);
+    padding: 5px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: center;
 
 
+}
 
+
+nav ul li {
+    display: block;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    float: right;
+
+}
+
+.content {
+    width: 80%;
+    flex-wrap: wrap;
+    color: #5f9ea0;
+    font-size: 30px;
+
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.marketing {
+
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 8px;
+    background-color: #A9A9A9;
+}
+
+
+.projects {
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    background-color: #A9A9A9;
+
+}
+
+#contactinfo {
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    color: aliceblue;
+
+}
+
+.row {
+    display: flex;
 }
