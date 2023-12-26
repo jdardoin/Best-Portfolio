@@ -1,8 +1,6 @@
 body {
 
     background-color: black;
-   
-    
 }
 
 header {
@@ -10,14 +8,12 @@ header {
     padding: 0%;
     margin: 0%;
     text-align: center;
-    
 }
 
 nav {
     display: flex;
     justify-content: center;
     margin: 0%;
-
 }
 
 nav ul li {
@@ -95,8 +91,11 @@ img {
     height: auto;
 }
 
-@media only screen and (max-width: 600px) {
-    nav {
-     flex-direction: row;
+/* to make the nav bar responsive to smaller screens*/
+@media screen and (max-width: 600px) {
+  
+    nav ul li {
+        float: none;
+        text-align: center;
     }
-  }
+}
