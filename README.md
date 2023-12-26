@@ -3,7 +3,7 @@
 ## Description 
 This is a portolio website of my most recent projects created with HMTL and CSS.
 
-- [License] (license)
+- [License] (#license)
 
 ## License
 
