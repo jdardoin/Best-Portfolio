@@ -8,16 +8,10 @@ This is a portolio website of my most recent projects created with HMTL and CSS.
 
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
-- [Character Classes](#character-classes)
-- [Flags](#flags)
-- [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
 
 
 
-## License
+[## License](url)
 
 MIT License
 
