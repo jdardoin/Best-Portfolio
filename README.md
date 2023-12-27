@@ -3,16 +3,7 @@
 ## Description 
 This is a portolio website of my most recent projects created with HMTL and CSS.
 
-
-## Table of Contents
-
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-
-
-
-[## License](url)
-
+## License
 MIT License
 
 ## Live Deployment link
